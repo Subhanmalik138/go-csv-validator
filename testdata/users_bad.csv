@@ -1,0 +1,4 @@
+id,name,email,age,role,joined,code
+abc,X,not-an-email,200,superadmin,15/01/2020,abc123
+1,,dup@example.com,30,user,2021-03-03,ABC-1234
+1,Duplicate Id,dup2@example.com,30,user,2021-03-03,DEF-5678

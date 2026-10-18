@@ -1,0 +1,4 @@
+id,name,email,age,role,joined,code
+1,Ada Lovelace,ada@example.com,36,admin,2020-01-15,ABC-1234
+2,Grace Hopper,grace@example.com,85,user,2019-06-30,XYZ-0001
+3,Alan Turing,alan@example.com,41,guest,2021-03-10,QRS-2222
